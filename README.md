@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'm Studying university Estacio, college Data Science,<br><br>Present moment learning JAVA, REACT, HTML, CSS and PYTHON.</h2>
+<h2 align="left">Graduated from Estácio University and currently working as a Fullstack Developer with expertise in DotNet and Angular. I also have a background in Data Science and, as a hobby, I train AI models with a focus on astrostatistics.</h2>
 
 ###
 
